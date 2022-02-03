@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e903a537-d47f-46cf-83dd-637a3700284a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/booking/dto/update-booking.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booking/booking.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/booking/booking.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booking/booking.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/booking/booking.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booking/booking.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/booking/booking.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hookans/dto/update-hookan.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/hookans/dto/update-hookan.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hookans/hookan.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/hookans/hookan.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hookans/hookan.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/hookans/hookan.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/places/places.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/places.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/places/places.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/places.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.service.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24F1URWVU7kZEK1adWLpqgc4Y0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/customers/dto" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Custom Programs\kaliknt-backend\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Custom Programs\kaliknt-backend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Custom Programs\kaliknt-backend\src\customers\dto" />
+      <recent name="C:\Custom Programs\kaliknt-backend\src\booking\dto" />
+      <recent name="C:\Custom Programs\kaliknt-backend\src\users" />
+      <recent name="C:\Custom Programs\kaliknt-backend\src\places\dto" />
+      <recent name="C:\Custom Programs\kaliknt-backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start:dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e903a537-d47f-46cf-83dd-637a3700284a" name="Default Changelist" comment="" />
+      <created>1643211536237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643211536237</updated>
+      <workItem from="1643211537335" duration="5315000" />
+      <workItem from="1643249797535" duration="4701000" />
+      <workItem from="1643254574837" duration="48000" />
+      <workItem from="1643303050195" duration="2749000" />
+      <workItem from="1643339212801" duration="1903000" />
+      <workItem from="1643388610990" duration="4716000" />
+      <workItem from="1643427172719" duration="5891000" />
+      <workItem from="1643477679766" duration="2089000" />
+      <workItem from="1643516167323" duration="7000" />
+      <workItem from="1643516215953" duration="11681000" />
+      <workItem from="1643551719255" duration="3653000" />
+      <workItem from="1643605873454" duration="3021000" />
+      <workItem from="1643689956102" duration="5830000" />
+      <workItem from="1643775118697" duration="4047000" />
+      <workItem from="1643809780637" duration="680000" />
+      <workItem from="1643867312624" duration="240000" />
+      <workItem from="1643869066568" duration="2518000" />
+      <workItem from="1643889021890" duration="1342000" />
+      <workItem from="1643891535805" duration="596000" />
+      <workItem from="1643895341255" duration="740000" />
+      <workItem from="1643901365401" duration="508000" />
+      <workItem from="1643904000517" duration="1659000" />
+    </task>
+    <task id="LOCAL-00001" summary="Добавлены модели">
+      <created>1643254615714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643254615714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавлены модели">
+      <created>1643341116998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643341116998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлены модели">
+      <created>1643393714144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393714144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Поправлены запросы">
+      <created>1643523699639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643523699639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлены модели" />
+    <MESSAGE value="Поправлены запросы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправлены запросы" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="827" y="407" key="#ESLint" timestamp="1643215662012">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="827" y="407" key="#ESLint/0.0.1920.1032@0.0.1920.1032" timestamp="1643215662012" />
+    <state x="413" y="170" width="1094" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643392377258">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="413" y="170" width="1094" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1643392377258" />
+    <state x="582" y="0" key="CommitChangelistDialog2" timestamp="1643523698450">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="582" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1643523698450" />
+    <state x="183" y="85" key="DiffContextDialog" timestamp="1643523676139">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="183" y="85" key="DiffContextDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1643523676139" />
+    <state x="739" y="270" key="FileChooserDialogImpl" timestamp="1643809867751">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="739" y="270" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1643809867751" />
+    <state width="1897" height="371" key="GridCell.Tab.0.bottom" timestamp="1643897857545">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1643897857545" />
+    <state width="1897" height="371" key="GridCell.Tab.0.center" timestamp="1643897857544">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="371" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1643897857544" />
+    <state width="1897" height="371" key="GridCell.Tab.0.left" timestamp="1643897857544">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="371" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1643897857544" />
+    <state width="1897" height="371" key="GridCell.Tab.0.right" timestamp="1643897857545">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="371" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1643897857545" />
+    <state x="775" y="136" key="RollbackChangesDialog" timestamp="1643525513863">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="775" y="136" key="RollbackChangesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1643525513863" />
+    <state x="460" y="160" key="SettingsEditor" timestamp="1643389870708">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="460" y="160" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1643389870708" />
+    <state x="551" y="246" key="Vcs.Push.Dialog.v2" timestamp="1643523704417">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="551" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1643523704417" />
+    <state x="667" y="239" width="585" height="554" key="find.popup" timestamp="1643526444028">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="667" y="239" width="585" height="554" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1643526444028" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1643608687197">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1643608687197" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1643554311306">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1643554311306" />
+  </component>
+</project>

@@ -2,6 +2,7 @@ import { Column, DataType, HasMany, Model, Table } from 'sequelize-typescript'
 import { ApiProperty }                             from '@nestjs/swagger'
 import { Place }                                   from 'src/places/place.model'
 import { User }                                    from '../users/user.model'
+import { Booking }                                 from '../booking/booking.model'
 
 
 @Table({ tableName: 'hookans' })
@@ -45,6 +46,9 @@ export class Hookan extends Model<Hookan> {
 
     @HasMany(() => User)
     users: User
+
+    @HasMany(() => Booking)
+    bookings: Booking
 
 
 }

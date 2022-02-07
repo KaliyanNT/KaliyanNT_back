@@ -16,9 +16,21 @@ export class BookingController {
   }
 
 
-  @Get(':id')
+  @Get('/id/:id')
   getById(@Param('id') id: string) {
     return this.bookingService.getById(id)
+  }
+
+
+
+  @Get('/hookan/:id')
+  getByHookan(@Param('id') id: string) {
+    return this.bookingService.getByHookan(id)
+  }
+
+  @Get('/place/:id')
+  getByPlace(@Param('id') id: string) {
+    return this.bookingService.getByPlace(id)
   }
 
 

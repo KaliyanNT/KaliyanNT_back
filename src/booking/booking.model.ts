@@ -1,7 +1,8 @@
 import { BelongsTo, Column, DataType, ForeignKey, Model, Table } from 'sequelize-typescript'
-import { ApiProperty } from '@nestjs/swagger'
-import { Place } from "../places/place.model";
-import { Customer } from "../customers/customer.model";
+import { ApiProperty }                                           from '@nestjs/swagger'
+import { Place }                                                 from "../places/place.model";
+import { Customer }                                              from "../customers/customer.model";
+import { Hookan }                                                from '../hookans/hookan.model'
 
 @Table({tableName: 'bookings'})
 export class Booking extends Model<Booking> {
@@ -41,6 +42,11 @@ export class Booking extends Model<Booking> {
     place: Place;
     @ForeignKey(() => Place)
     placeId: Place
+
+    @BelongsTo(() => Hookan)
+    hookan: Hookan;
+    @ForeignKey(() => Hookan)
+    hookanId: Hookan
 
     @BelongsTo(() => Customer)
     customer: Customer;

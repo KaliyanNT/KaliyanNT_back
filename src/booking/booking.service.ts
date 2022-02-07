@@ -16,14 +16,20 @@ export class BookingService {
   }
 
 
-  async getById(id) {
-    const candidate = await this.bookingRepository.findOne({ where: { id }, include: { all: true } })
-    if (candidate) {
-      return candidate
-    } else {
-      throw new UnauthorizedException({ message: 'Кальянная не найдена!' })
-    }
+  async getByHookan(hookanId) {
+    return await this.bookingRepository.findAll({ where: { hookanId } })
   }
+
+
+  async getByPlace(placeId) {
+    return await this.bookingRepository.findAll({ where: { placeId } })
+  }
+
+
+  async getById(id) {
+    return  await this.bookingRepository.findAll({ where: { id }, include: { all: true } })
+  }
+
 
 
   async create(bookingDto: CreateBookingDto) {
